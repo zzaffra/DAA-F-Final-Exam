@@ -12,7 +12,7 @@
 | **Student ID** | 5025231310 |
 | **Class** | DAA F |
 | **Submission Date** | 18 June 2026 |
-| **GitHub Repository** | https://github.com/\[your-username\]/smart-evacuation-system |
+| **GitHub Repository** | https://github.com/zzaffra/DAA-F-Final-Exam |
 | **Institution** | Institut Teknologi Sepuluh Nopember (ITS), Surabaya |
 
 > **Note:** This project was completed independently. All design, implementation, analysis, and documentation were performed by Nadya Zafira.
